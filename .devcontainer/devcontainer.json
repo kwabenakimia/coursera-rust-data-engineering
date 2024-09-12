@@ -36,7 +36,7 @@
 				"github.copilot",
 				"github.copilot-chat",
 				"vadimcn.vscode-lldb",
-				"vscodevim"
+				"vscodevim.vim"
 			]
 		}
 	},
